@@ -1,0 +1,36 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Launch dev",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/main_dev.dart",
+      "args": [
+        "-d",
+        "chrome",
+        "--web-renderer",
+        "canvaskit",
+        "--dart-define",
+        "SHARING_ENABLED=true",
+        "--web-port",
+        "5001"
+      ]
+    },
+    {
+      "name": "Gallery Tensorflow",
+      "request": "launch",
+      "type": "dart",
+      "program": "packages/tensorflow_models/tensorflow_models/example/lib/main.dart",
+      "args": [
+        "-d",
+        "chrome",
+        "--web-renderer",
+        "canvaskit"
+      ]
+    }
+  ]
+}

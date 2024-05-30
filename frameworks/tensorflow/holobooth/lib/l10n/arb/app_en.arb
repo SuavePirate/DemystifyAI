@@ -1,0 +1,201 @@
+{
+  "@@locale": "en",
+  "landingPageHeading": "Holobooth",
+  "@landingPageHeading": {
+    "description": "Heading shown on the landing page."
+  },
+  "landingPageSubheading": "Jump into a new reality to bring Dash and Sparky to life and share your creations with the community!",
+  "@landingPageSubheading": {
+    "description": "Subheading shown on the landing page."
+  },
+  "landingPageTakePhotoButtonText": "Get started",
+  "@landingPageTakePhotoButtonText": {
+    "description": "Button text shown on the landing page which navigates to the photo booth."
+  },
+  "animojiIntroPageSubheading": "Activate your camera and move your head to control Dash and Sparky.",
+  "@animojiIntroPageSubheading": {
+    "description": "Subheading shown on the animoji intro page."
+  },
+  "flutterForwardLinkFooterText": "Flutter Forward",
+  "@flutterForwardLinkFooterText": {
+    "description": "Text on the link shown on the footer which navigates to the Flutter Forward page"
+  },
+  "footerHowItsMadeLinkText": "How It's Made",
+  "@footerHowItsMadeLinkText": {
+    "description": "Text on the link shown on the footer which navigates to the How It's Made page."
+  },
+  "footerTermsOfServiceLinkText": "Terms of Service",
+  "@footerTermsOfServiceLinkText": {
+    "description": "Text on the link shown on the footer which navigates to the Terms of Service page."
+  },
+  "footerPrivacyPolicyLinkText": "Privacy Policy",
+  "@footerPrivacyPolicyLinkText": {
+    "description": "Text on the link shown on the footer which navigates to the Privacy Policy page."
+  },
+  "sharePageHeading": "Share your video with the community!",
+  "@sharePageHeading": {
+    "description": "Heading shown on the share page."
+  },
+  "sharePageRetakeButtonText": "Retake",
+  "@sharePageRetakeButtonText": {
+    "description": "Button text shown on the share page which navigates back to the photo booth."
+  },
+  "sharePageShareButtonText": "Share",
+  "@sharePageShareButtonText": {
+    "description": "Button text shown on the share page which opens a dialog to share the taken photo."
+  },
+  "sharePageDownloadButtonText": "Download",
+  "@sharePageDownloadButtonText": {
+    "description": "Button text shown on the share page which downloads the taken photo."
+  },
+  "sharePageSocialMediaShareClarification1": "Your video will be automatically deleted after 30 days. To request early deletion of your photo, please contact ",
+  "@sharePageSocialMediaShareClarification1": {
+    "description": "First part of the text shown at the bottom of the share page that clarifies how photos are stored on the backend when shared on social medias"
+  },
+  "sharePageSocialMediaShareClarification2": "flutter-photo-booth@google.com",
+  "@sharePageSocialMediaShareClarification2": {
+    "description": "Second part of the text shown at the bottom of the share page that clarifies how photos are stored on the backend when shared on social medias"
+  },
+  "shareDialogHeading": "Share your video!",
+  "@shareDialogHeading": {
+    "description": "Heading shown on the share dialog."
+  },
+  "shareDialogSubheading1": "Let everyone know you're at",
+  "@shareDialogSubheading1": {
+    "description": "First Subheading part shown on the share dialog."
+  },
+  "shareDialogSubheading2": " Flutter Forward ",
+  "@shareDialogSubheading2": {
+    "description": "Second Subheading part shown on the share dialog."
+  },
+  "shareDialogSubheading3": "by sharing your video during the event!",
+  "@shareDialogSubheading3": {
+    "description": "Third Subheading part shown on the share dialog."
+  },
+  "shareDialogTwitterButtonText": "Twitter",
+  "@shareDialogTwitterButtonText": {
+    "description": "Button text shown on the share dialog which shares on Twitter the photo."
+  },
+  "shareDialogFacebookButtonText": "Facebook",
+  "@shareDialogFacebookButtonText": {
+    "description": "Button text shown on the share dialog which shares on Facebook the photo."
+  },
+  "cameraAccessDeniedMessage": "Camera permission denied",
+  "@cameraAccessDeniedMessage": {
+    "description": "Text displayed when camera permissions is not granted"
+  },
+  "cameraNotFoundMessage": "Camera was not found",
+  "@cameraNotFoundMessage": {
+    "description": "Text displayed when camera is not found."
+  },
+  "unknownCameraErrorMessage": "Unknown camera error",
+  "@unknownCameraErrorMessage": {
+    "description": "Text displayed when unknown camera error occurred"
+  },
+  "sharePageLearnMoreAboutTextPart1": "Learn ",
+  "@sharePageLearnMoreAboutTextPart1": {
+    "description": "Part 1 text shown on the share page which mentions technologies used to build the app."
+  },
+  "sharePageLearnMoreAboutTextLink1": "how we made it",
+  "@sharePageLearnMoreAboutTextLink1": {
+    "description": "First link text shown on the share page which mentions technologies used to build the app."
+  },
+  "sharePageLearnMoreAboutTextPart2": " for ",
+  "@sharePageLearnMoreAboutTextPart2": {
+    "description": "Part 2 text shown on the share page which mentions technologies used to build the app."
+  },
+  "sharePageLearnMoreAboutTextLink2": "Flutter Forward",
+  "@sharePageLearnMoreAboutTextLink2": {
+    "description": "Second link text shown on the share page which mentions technologies used to build the app."
+  },
+  "sharePageLearnMoreAboutTextPart3": " and then dive right into the ",
+  "@sharePageLearnMoreAboutTextPart3": {
+    "description": "Part 3 text shown on the share page which mentions technologies used to build the app."
+  },
+  "sharePageLearnMoreAboutTextLink3": "open source code",
+  "@sharePageLearnMoreAboutTextLink3": {
+    "description": "Third link text shown on the share page which mentions technologies used to build the app."
+  },
+  "sharePageLearnMoreAboutTextPart4": ".",
+  "@sharePageLearnMoreAboutTextPart4": {
+    "description": "Part 4 text shown on the share page which mentions technologies used to build the app."
+  },
+  "nextButtonText": "Next",
+  "@nextButtonText": {
+    "description": "Text displayed on a next button."
+  },
+  "charactersTabTitle": "Select your avatar:",
+  "@charactersTabTitle": {
+    "description": "Title text displayed on the avatar selection tab",
+    "type": "text",
+    "placeholders": {}
+  },
+  "classicPhotoboothHeading": "Classic",
+  "@classicPhotoboothHeading": {
+    "description": "Text show on the top of the classic photo booth banner"
+  },
+  "classicPhotoboothLabel": "Photo Booth",
+  "@classicPhotoboothLabel": {
+    "description": "Text show on the label of the classic photo booth banner"
+  },
+  "backgroundsTabTitle": "Select a scene:",
+  "@backgroundsTabTitle": {
+    "description": "Title text displayed on the scene selection tab",
+    "type": "text",
+    "placeholders": {}
+  },
+  "propsTabTitle": "Choose your props:",
+  "@propsTabTitle": {
+    "description": "Title text displayed on the prop selection tab",
+    "type": "text",
+    "placeholders": {}
+  },
+  "recordButtonText": "Record video",
+  "@recordButtonText": {
+    "description": "Text displayed on a record button."
+  },
+  "convertMessage": "We're making your video pixel perfect with Flutter!",
+  "@convertMessage": {
+    "description": "Message displayed on a convert screen."
+  },
+  "convertInfo": "Please do not close this tab.",
+  "@convertInfo": {
+    "description": "Information displayed on a convert screen"
+  },
+  "convertErrorMessage": "Something went wrong generating the video.",
+  "@convertErrorMessage": {
+    "description": "Information displayed when there is an error generating the video."
+  },
+  "getReady": "Get ready",
+  "@getReady": {
+    "description": "Text displayed before recording."
+  },
+  "faceNotDetected": "Face not detected",
+  "@faceNotDetected": {
+    "description": "Text displayed when there is no face detected."
+  },
+  "downloadOptionGif": "GIF Format",
+  "@downloadOptionGif": {
+    "description": "Text shown to download in gif format."
+  },
+  "downloadOptionVideo": "Video Format",
+  "@downloadOptionVideo": {
+    "description": "Text shown to download as a video."
+  },
+  "sharingDisabled": "Sharing disabled",
+  "@sharingDisabled": {
+    "description": "Text displayed when trying to share and it is disabled."
+  },
+  "tryAgainVideoGeneration": "Try again",
+  "@tryAgainVideoGeneration": {
+    "description": "Text displayed on try again button when generate video fails."
+  },
+  "retakeVideoGeneration": "Retake",
+  "@retakeVideoGeneration": {
+    "description": "Text displayed on retake button when generate video fails."
+  },
+  "maxRetriesReached": "Unfortunately we were unable to generate this video for you.",
+  "@maxRetriesReached": {
+    "description": "Text displayed when maximum amount of tries has been reaching to generate the video."
+  }
+}

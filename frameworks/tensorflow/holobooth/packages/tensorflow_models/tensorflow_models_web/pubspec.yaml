@@ -1,0 +1,32 @@
+name: tensorflow_models_web
+description: A tensorflow_models plugin for flutter web
+publish_to: none
+
+environment:
+  sdk: ">=2.19.0 <3.0.0"
+  flutter: 3.7.12
+
+flutter:
+  plugin:
+    platforms:
+      web:
+        pluginClass: TensorflowModelsPlugin
+        fileName: tensorflow_models_web.dart
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_web_plugins:
+    sdk: flutter
+  js_interop_utils:
+    path: ../../js_interop_utils
+  tensorflow_models_platform_interface:
+    path: ../tensorflow_models_platform_interface
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  image: ^3.2.2
+  integration_test:
+    sdk: flutter
+  very_good_analysis: ^4.0.0

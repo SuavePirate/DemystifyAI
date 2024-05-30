@@ -1,0 +1,18 @@
+name: face_geometry
+description: Set of calculations to detect common face expressions.
+version: 1.0.0+1
+publish_to: none
+
+environment:
+  sdk: ">=2.19.0 <3.0.0"
+
+dependencies:
+  equatable: ^2.0.5
+  meta: ^1.8.0
+  tensorflow_models_platform_interface:
+    path: ../tensorflow_models/tensorflow_models_platform_interface
+
+dev_dependencies:
+  mocktail: ^0.3.0
+  test: ^1.19.2
+  very_good_analysis: ^4.0.0
